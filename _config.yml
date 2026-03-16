@@ -1,0 +1,8 @@
+title: Reading List
+theme: minima
+
+minima:
+  nav_pages:
+  - strona-główna.md
+  - o-nas.md
+  - przewodniki.md
