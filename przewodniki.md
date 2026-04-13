@@ -12,6 +12,13 @@ Przegląd ciekawych wydawnictw przewodników turystycznych:
 
 ## Travelbook. Wydawnictwo Bezdroża
 
-Zawiera przede wszystkim podstawowe informacje, praktyczne rekomendacje, ciekawe trasy zwiedzania, mapy, a także wiele ciekawostek i przydatnych rozmówek
+Zawiera przede wszystkim podstawowe informacje, praktyczne rekomendacje, ciekawe trasy zwiedzania, mapy, a także wiele ciekawostek i przydatnych rozmówek. Atutem jest również udostępnienie w wersji papierowej kodu do wersji online. Przeowdnik jest niewielkich rozmiarów, a więc zmieści się do do kazdego bagażu.
 
 ![przewodnik, travelbook](travelbook.jpg)
+
+
+## PascalLajt
+
+Przewodniki te są bogato ilustrowane przez to jest na pewno przyjazny dla oka. Zawierają również przydatne rozdziału pod tytułem "Warto wiedzieć", które wprowadzają w temat użytecznych informacji o danym mieście. Sprawdza sie przede wszystkim na krótkie, miejckie wyjazdy jak citybreaki.
+
+![przewodnik, PascalLajt](
