@@ -28,4 +28,4 @@ Przewodniki te są bogato ilustrowane przez to jest na pewno przyjazny dla oka. 
 
 Kieszonkowe wydanie tego przewodnika turystycznego pozwala na bezproblemowe umieszczenie go w swoim bagażu. Jest tam wprowadzona nietypowa narracja, a mianowicie wystepuje ona w formie kompasue, ktore każda tematyczna wskazówka, czyli rozdział ma na celu wprowadzić w zupełnie inny wymiar oraz aspekt miasta.
 
-![przewodnik, Dumont](
+![przewodnik, Dumont](dumont.jpg)
