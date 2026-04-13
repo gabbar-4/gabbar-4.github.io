@@ -14,4 +14,4 @@ Przegląd ciekawych wydawnictw przewodników turystycznych:
 
 Zawiera przede wszystkim podstawowe informacje, praktyczne rekomendacje, ciekawe trasy zwiedzania, mapy, a także wiele ciekawostek i przydatnych rozmówek
 
-!(travelbook.jpg)
+![przewodnik, travelbook](travelbook.jpg)
