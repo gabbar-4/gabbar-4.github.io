@@ -19,6 +19,13 @@ Zawiera przede wszystkim podstawowe informacje, praktyczne rekomendacje, ciekawe
 
 ## PascalLajt
 
-Przewodniki te są bogato ilustrowane przez to jest na pewno przyjazny dla oka. Zawierają również przydatne rozdziału pod tytułem "Warto wiedzieć", które wprowadzają w temat użytecznych informacji o danym mieście. Sprawdza sie przede wszystkim na krótkie, miejckie wyjazdy jak citybreaki.
+Przewodniki te są bogato ilustrowane przez to jest na pewno przyjazny dla oka. Zawierają również przydatne rozdziału pod tytułem "Warto wiedzieć", które wprowadzają w temat użytecznych informacji o danym mieście. Sprawdza się przede wszystkim na krótkie, miejskie wyjazdy jak citybreaki.
 
 ![przewodnik, PascalLajt](apscallajt.jpg)
+
+
+## Dumont
+
+Kieszonkowe wydanie tego przewodnika turystycznego pozwala na bezproblemowe umieszczenie go w swoim bagażu. Jest tam wprowadzona nietypowa narracja, a mianowicie wystepuje ona w formie kompasue, ktore każda tematyczna wskazówka, czyli rozdział ma na celu wprowadzić w zupełnie inny wymiar oraz aspekt miasta.
+
+![przewodnik, Dumont](
