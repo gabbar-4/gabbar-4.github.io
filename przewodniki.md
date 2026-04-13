@@ -8,3 +8,9 @@ Główne plusy fizycznych przewodników turystycznych:
 - niezależność od stanu baterii i zasięgu
 - pamiątka z danej podróży
   
+Przegląd ciekawych wydawnictw przewodników turystycznych:
+
+##Travelbook. Wydawnictwo Bezdroża
+
+Zawiera przede wszystkim podstawowe informacje, praktyczne rekomendacje, ciekawe trasy zwiedzania, mapy, a także wiele ciekawostek i przydatnych rozmówek
+
