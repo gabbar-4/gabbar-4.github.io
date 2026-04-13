@@ -10,3 +10,4 @@
 
 ## "Życie po duńsku" - Helen Russell
 
+![książka, życie po duńsku](życie po duńsku.jpg)
