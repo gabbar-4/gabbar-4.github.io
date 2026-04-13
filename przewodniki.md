@@ -14,4 +14,4 @@ Przegląd ciekawych wydawnictw przewodników turystycznych:
 
 Zawiera przede wszystkim podstawowe informacje, praktyczne rekomendacje, ciekawe trasy zwiedzania, mapy, a także wiele ciekawostek i przydatnych rozmówek
 
-!(https://github.com/gabbar-4/gabbar-4.github.io/blob/main/travelbook.jpg)
+!(travelbook.jpg)
