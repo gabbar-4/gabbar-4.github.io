@@ -21,4 +21,4 @@ Zawiera przede wszystkim podstawowe informacje, praktyczne rekomendacje, ciekawe
 
 Przewodniki te są bogato ilustrowane przez to jest na pewno przyjazny dla oka. Zawierają również przydatne rozdziału pod tytułem "Warto wiedzieć", które wprowadzają w temat użytecznych informacji o danym mieście. Sprawdza sie przede wszystkim na krótkie, miejckie wyjazdy jak citybreaki.
 
-![przewodnik, PascalLajt](
+![przewodnik, PascalLajt](apscallajt.jpg)
