@@ -1,3 +1,5 @@
+## O Nas
+
 ------ 
 Kilka słów o nas 😄
 ------
