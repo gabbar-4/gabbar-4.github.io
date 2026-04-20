@@ -5,7 +5,7 @@ body {
   margin: 0;
   font-family: "Times New Roman", Times, serif;
   background-color: #000000;
-  color: #2BFF00;
+  color: #2bff00;
 }
 
 .container {
@@ -13,14 +13,14 @@ body {
   margin: 40px auto;
   padding: 24px;
   background: #000000;
-  border: 1px solid #2BFF00;
+  border: 1px solid #2bff00;
   border-radius: 12px;
 }
 
 h1, h2, h3 {
-  color: #FFF700
+  color: #fff700
 }
 
 a {
-  color: #2BFF00
+  color: #2bff00
 }
