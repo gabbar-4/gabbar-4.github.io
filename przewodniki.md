@@ -13,12 +13,15 @@ Główne plusy fizycznych przewodników turystycznych:
 2. ["PascalLajt"](https://github.com/gabbar-4/gabbar-4.github.io/blob/main/przewodniki.md#pascallajt)
 3. ["Dumont"](https://github.com/gabbar-4/gabbar-4.github.io/blob/main/przewodniki.md#dumont)
 
+---
+
 ### Travelbook. Wydawnictwo Bezdroża
 
 Zawiera przede wszystkim podstawowe informacje, praktyczne rekomendacje, ciekawe trasy zwiedzania, mapy, a także wiele ciekawostek i przydatnych rozmówek. Atutem jest również udostępnienie w wersji papierowej kodu do wersji online. Przeowdnik jest niewielkich rozmiarów, a więc zmieści się do do kazdego bagażu.
 
 ![przewodnik, travelbook](travelbook.jpg)
 
+---
 
 ### PascalLajt
 
@@ -26,6 +29,7 @@ Przewodniki te są bogato ilustrowane przez to jest na pewno przyjazny dla oka. 
 
 ![przewodnik, PascalLajt](apscallajt.jpg)
 
+---
 
 ### Dumont
 
