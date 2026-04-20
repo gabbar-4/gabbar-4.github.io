@@ -1,6 +1,3 @@
----
----
-
 title: Dania
 
 ## Spis Treści
