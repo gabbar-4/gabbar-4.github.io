@@ -1,5 +1,5 @@
 
-# O Nas
+# Strona Główna
 ## Spis Treści
 1. [O Nas](https://gabbar-4.github.io/o-nas.html)
 2. [Przewodniki Turystyczne](https://gabbar-4.github.io/przewodniki.html)
