@@ -3,9 +3,9 @@
 
 body {
   margin: 0;
-  font-family: "Times New Roman", Times, serif;
+  font-family: Arial, sans-serif;
   background-color: #000000;
-  color: #2bff00;
+  color: #ffea00;
 }
 
 .container {
@@ -13,14 +13,37 @@ body {
   margin: 40px auto;
   padding: 24px;
   background: #000000;
-  border: 1px solid #2bff00;
+  border: 1px solid #59ff00;
   border-radius: 12px;
 }
 
 h1, h2, h3 {
-  color: #fff700
+  color: #ffea00;
 }
 
 a {
-  color: #2bff00
+  color: #59ff00;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+blockquote {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid #59ff00;
+  background: #000000;
+  color: #ffea00;
+}
+
+code {
+  background: #000000;
+  padding: 0.15rem 0.35rem;
+  border-radius: 6px;
+}
+
+.uwaga {
+  color: #59ff00;
+  font-weight: bold;
 }
