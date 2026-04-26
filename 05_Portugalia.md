@@ -10,7 +10,7 @@ permalink: /Portugalia/
 4. XXX
 
 ### Krótko o Portugalii <a name="Portugalia"></a>
-(2, 3 zdania o Portugalii)
+Portugalia położona jest w zachodniej części Europy Południowej na południowym zachodzie Półwyspu Iberyjskiego. Od północy i wschodu graniczy z Hiszpanią, natomiast od południa i zachodu oblewają ją wody Oceanu Atlantyckiego. Stolica kraju jest Lizbona, która jest jednym z najstarszych miast Europy i słynie z malowniczych ulic oraz widoków na ocean.W skład Portugalii wchodzą także dwa archipelagi wysp - Azory i Madera.
 
 ---
 
