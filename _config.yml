@@ -1,9 +1,10 @@
 title: Książki Przydatne Przyszłym Podróżnikom
+description: Książki i przewodniki, które pomogą zagłębić się w destynację potencjalnemu turyście.
 theme: minima
 
 minima:
   nav_pages:
-    - 01_index.md
+    - index.md
     - 02_o-nas.md
     - 03_przewodniki.md
     - 04_Dania.md
