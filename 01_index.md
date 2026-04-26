@@ -1,6 +1,5 @@
 ---
 title: Strona Główna
-permalink: /index/
 ---
 
 ## Witajcie Przyszli Podróżnicy!
