@@ -11,7 +11,7 @@ permalink: /Dania/
 
 ### Krótko o Danii <a name="Dania"></a>
 
-Dodać dwa trzy zdania o Danii
+Dania położona jest w Europie Północnej - Skandynawii i jest jednocześnie najmniejszym z państw nordyckich. Państwo składa się z półwyspu Jutlandzkiego oraz licznych wysp. Stolicą kraju jest Kopenhaga, która znana jest z nowoczesnej architektury i wysokiej jakości życia. Dania jest monarchią konstytucyjną oraz członkiem Unii Europejskiej. Z tego kaju pochodzi także słynna na cały świat firma produkująca klocki Lego.
 
 ---
 
