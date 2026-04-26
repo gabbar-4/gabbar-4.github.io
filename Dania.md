@@ -1,4 +1,7 @@
-# Dania
+---
+title: Dania
+permalink: /Dania/
+---
 
 ## Spis Treści
 1. ["Krótko o Danii"](#Dania)
