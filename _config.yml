@@ -3,7 +3,7 @@ theme: minima
 
 minima:
   nav_pages:
-    - 01__index.md
+    - 01_index.md
     - 02_o-nas.md
     - 03_przewodniki.md
     - 04_Dania.md
