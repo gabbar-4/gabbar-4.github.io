@@ -10,26 +10,25 @@ body {
 
 .site-header {
   background-color: #000000;
+  border-top: 6px solid #ffea00;
+  border-bottom: 1px solid #ffea00;
+}
 
-  .site-title,
+.site-title,
 .site-title:visited {
-  color: #59ff00;
+  color: #ffea00;
   font-weight: 700;
 }
 
-.container {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 24px;
-  background: #000000;
-  border: 1px solid #59ff00;
-  border-radius: 12px;
-}
-
 .site-nav .page-link {
-  color: #59ff00;
+  color: #ffea00;
   margin-left: 14px;
   font-weight: 600;
+}
+
+.site-nav .page-link:hover {
+  color: #59ff00;
+  text-decoration: none;
 }
 
 h1, h2, h3 {
