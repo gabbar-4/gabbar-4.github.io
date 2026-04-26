@@ -8,6 +8,15 @@ body {
   color: #ffea00;
 }
 
+.site-header {
+  background-color: #000000;
+
+  .site-title,
+.site-title:visited {
+  color: #59ff00;
+  font-weight: 700;
+}
+
 .container {
   max-width: 900px;
   margin: 40px auto;
