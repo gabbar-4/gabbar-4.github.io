@@ -8,7 +8,7 @@ permalink: /Węgry/
 1. ["Węgry. W objęcicach Dunaju" - Kinga Piotrowiak-Junkiert](#objęcia)
 
 ### Krótko o Węgrzech <a name="Węgry"></a>
-Węgry to państwo śródlądowe w Europie Środkowej. Stolicą kraju jest Budapeszt, który słynie z pięknej architektury i licznych mostów na rzece Dunaj. Na Węgrzech leży znane jezioro Balaton, oraz słynne regiony winiarskie - Eger i Tokaj.
+Węgry to państwo śródlądowe w Europie Środkowej. Stolicą kraju jest Budapeszt, który słynie z pięknej architektury i licznych mostów na rzece Dunaj, po którym można udać się w rejs i podziwiać budynek parlamentu. Na Węgrzech leży znane jezioro Balaton, oraz słynne regiony winiarskie - Eger i Tokaj.
 
 ---
 
