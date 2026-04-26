@@ -1,6 +1,7 @@
 ---
 title: O Nas
 permalink: /ONas/
+---
 
 ### Kilka słów o nas 😄
 (Zabrać stad cel i przenieść na stronę główną, resztę zostawić)
