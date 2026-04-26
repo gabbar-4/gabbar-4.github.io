@@ -1,7 +1,11 @@
 # Węgry
 
 ## Spis Treści
+1. [Krótko o Węgrzech](#Węgry)
 1. ["Węgry. W objęcicach Dunaju" - Kinga Piotrowiak-Junkiert](#objęcia)
+
+### Krótko o Węgrzech <a name="Węgry"></a>
+(2, 3 zdania o Węgrzech)
 
 ---
 
