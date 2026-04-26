@@ -3,9 +3,9 @@ theme: minima
 
 minima:
   nav_pages:
-    - index.md
-    - o-nas.md
-    - przewodniki.md
-    - Dania.md
-    - Portugalia.md
-    - Węgry.md
+    - 01__index.md
+    - 02_o-nas.md
+    - 03_przewodniki.md
+    - 04_Dania.md
+    - 05_Portugalia.md
+    - 06_Węgry.md
