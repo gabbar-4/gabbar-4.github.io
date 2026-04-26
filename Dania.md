@@ -7,7 +7,8 @@
 3. XXX
 
 ### Krótko o Danii <a name="Dania"></a>
-(Dodać dwa trzy zdania o Danii)
+
+Dodać dwa trzy zdania o Danii
 ---
 
 ### "Hygge. Klucz do szczęścia" – Meik Wiking <a name="klucz"></a>
