@@ -1,6 +1,8 @@
 ---
 title: Strona Główna
+permalink: /StronaGłówna/
 ---
+
 ## Witajcie Przyszli Podróżnicy!
 Lorem Ipsum. Tutaj streścicć cel itd.
 
