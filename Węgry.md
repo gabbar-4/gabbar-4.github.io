@@ -1,4 +1,7 @@
-# Węgry
+---
+title: Węgry
+permalink: /Węgry/
+---
 
 ## Spis Treści
 1. [Krótko o Węgrzech](#Węgry)
