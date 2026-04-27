@@ -1,14 +1,15 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-
 body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #000000;
   color: #ffea00;
+}
+
+.wrapper {
+  max-width: 980px;
 }
 
 .site-header {
