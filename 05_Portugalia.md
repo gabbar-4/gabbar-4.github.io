@@ -14,4 +14,6 @@ Portugalia położona jest w zachodniej części Europy Południowej na południ
 
 ---
 
-Books TBA
+### "Portugalia. W objęciach oceanu" - Anna Bittner <a name="Portugalia"></a>
+
+To książka z pogranicza literatury podróżniczej i reportażu. To opowieść o życiu w Portugalii "od środka". Autorka nie skupia się wyłącznie na atrakcjach turystycznych, ale przede wszystkim na codzienności, kulturze i mentalności mieszkańców — pokazując ich spokojne tempo życia, zwyczaje oraz charakterystyczny klimat kraju nad oceanem.
