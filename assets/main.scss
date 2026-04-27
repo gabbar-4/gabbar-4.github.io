@@ -1,6 +1,9 @@
+ ---
+ ---
+
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   background-color: #000000;
   color: #ffea00;
 }
@@ -8,6 +11,7 @@ body {
 .site-header {
   background-color: #000000;
   border-bottom: 1px solid #ffea00;
+  font-size: 30px
 }
 
 .site-title,
@@ -37,23 +41,4 @@ a {
 
 a:hover {
   text-decoration: none;
-}
-
-blockquote {
-  margin: 1rem 0;
-  padding: 0.75rem 1rem;
-  border-left: 4px solid #59ff00;
-  background: #000000;
-  color: #ffea00;
-}
-
-code {
-  background: #000000;
-  padding: 0.15rem 0.35rem;
-  border-radius: 6px;
-}
-
-.uwaga {
-  color: #59ff00;
-  font-weight: bold;
 }
