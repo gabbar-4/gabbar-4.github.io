@@ -19,6 +19,8 @@ Jest to książka, która przybliża kulturę i codzienne życie Węgier, napisa
 
 ![ksiażka, w objęciach dunaju](webp.webp)
 
+---
+
 ### "Sekrety Budapesztu" - Waldemar Kugler <a name="sekrety"></a>
 
 Jest to książka popularnonaukowa z pogranicza reportażu i opowieści o mieście. To barwna i pełna ciekawostek podróż po Budapeszcie, stolicy państwa, skupiająca się na mniej oczywistych historiach, anegdotach i legendach. Autor zamiast klasycznego przewodnika przedstawia "drugą stronę" miasta z jego tajemnicami, nietypowymi wydarzeniami orazinteresującymi postaciami.
