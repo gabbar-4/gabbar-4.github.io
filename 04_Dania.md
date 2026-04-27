@@ -27,4 +27,4 @@ Jest to lekki poradnik opisujący duńską filozofię życia hygge. Książka po
 
 Jest to książka w stylu reportażowo-lifestylowym. Opowiada o roku, który autorka spędza w Danii, próbując zrozumieć, dlaczego Duńczycy uchodzą za jeden z najszczęśliwszych narodów na świecie. Codzienne życie, kulturę, pracę, relacje społeczne i zwyczaje autorka opisuje z humorem i dystansem. Są to przede wszystkim obserwacje oraz osobiste relacje autorki.
 
-![książka, życie po duńsku](życie po duńsku.jpg)
+![książka, życie po duńsku](zycie-po-dunsku.webp)
