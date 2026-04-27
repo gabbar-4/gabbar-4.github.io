@@ -19,6 +19,8 @@ To książka z pogranicza literatury podróżniczej i reportażu. To opowieść 
 
 ![ksiązka. portugalia w objęciach oceanu](portugalia-w-objeciach-oceanu-b-iext213672986.webp)
 
+---
+
 ### "Portugalia. Tam, gdzie zwalnia czas" - Krzysztof Gierak, Julita Kucińska <a name="Zwalniaczas"></a>
 
 Jest to książka z pogranicza reportażu, przewodnika i opowieści o kulturze. Książka ta ukazuje Portugalię z różnych perspektyw - od historii i tradycji po krajobrazy i miasta na czele ze stolicą kraju Lizboną. Autorzy, którzy mieszkają na miejscu, starają się wyjaśnić dlaczego życie tam wydaje się spokojniejsze i bardziej zwolnione.
