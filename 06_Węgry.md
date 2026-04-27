@@ -5,7 +5,8 @@ permalink: /Węgry/
 
 ## Spis Treści
 1. [Krótko o Węgrzech](#Węgry)
-1. ["Węgry. W objęcicach Dunaju" - Kinga Piotrowiak-Junkiert](#objęcia)
+2. ["Węgry. W objęcicach Dunaju" - Kinga Piotrowiak-Junkiert](#objęcia)
+3. ["Sekrety Budapesztu" - Waldemar Kugler](#sekrety)
 
 ### Krótko o Węgrzech <a name="Węgry"></a>
 Węgry to państwo śródlądowe w Europie Środkowej. Stolicą kraju jest Budapeszt, który słynie z pięknej architektury i licznych mostów na rzece Dunaj, po którym można udać się w rejs i podziwiać budynek parlamentu. Na Węgrzech leży znane jezioro Balaton, oraz słynne regiony winiarskie - Eger i Tokaj.
@@ -18,7 +19,7 @@ Jest to książka, która przybliża kulturę i codzienne życie Węgier, napisa
 
 ![ksiażka, w objęciach dunaju](webp.webp)
 
-### "Sekrety Budapesztu" - Waldemar Kugler <a name="objęcia"></a>
+### "Sekrety Budapesztu" - Waldemar Kugler <a name="sekrety"></a>
 
 Jest to książka popularnonaukowa z pogranicza reportażu i opowieści o mieście. To barwna i pełna ciekawostek podróż po Budapeszcie, stolicy państwa, skupiająca się na mniej oczywistych historiach, anegdotach i legendach. Autor zamiast klasycznego przewodnika przedstawia "drugą stronę" miasta z jego tajemnicami, nietypowymi wydarzeniami orazinteresującymi postaciami.
 
