@@ -4,9 +4,6 @@ permalink: /ONas/
 ---
 
 ### Kilka słów o nas 😄
-(Zabrać stad cel i przenieść na stronę główną, resztę zostawić)
-Stworzyłyśmy tę stronę w celu ułatwienia znalezienia książki lub przewodnika turystycznego odpowiedniego dla siebie. Strona pomoże Ci w wyborze najlepszej opcji, poprzez przegląd różnych pozycji dostępnych na rynku. Zapraszamy do zapoznania się z naszymi materiałami!
-
 Cześć! Z tej strony Gabrysia i Milena. Jesteśmy studentkami Turystyki i Rekreacji na Wydziale Nauk Geograficznych i Geologicznych UAM w Poznaniu i postanowiłyśmy wykorzystać swoją wiedzę i doświadczenie tworząc stronę ze sprawdzonymi i polecanymi przewodnikami i książkami turystycznymi. Źródłem naszej wiedzy są zarówno zajęcia na uczelni jak i własne podróże w czasie wolnym. Mamy nadzieję, że nasza strona pomoże w odpowiednim przygotowaniu się do Waszych podróży.
 
 Na początek kilka praktycznych wskazówek:
