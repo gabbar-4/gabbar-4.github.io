@@ -22,4 +22,4 @@ To książka z pogranicza literatury podróżniczej i reportażu. To opowieść 
 
 ### "Portugalia. Tam, gdzie zwalnia czas" - Krzysztof Gierak, Julita Kucińska <a name="Portugalia"></a>
 
-[ksiązka. tam, gdzie zwalnia czas](
+[ksiązka. tam, gdzie zwalnia czas](portugalia-tam-gdzie-zwalnia-czas.webp)
