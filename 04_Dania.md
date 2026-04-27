@@ -17,10 +17,14 @@ Dania położona jest w Europie Północnej - Skandynawii i jest jednocześnie n
 
 ### "Hygge. Klucz do szczęścia" – Meik Wiking <a name="klucz"></a>
 
+Jest to lekki poradnik opisujący duńską filozofię życia hygge. Książka pokazuje, że szczęście nie musi wynikać z wielkich osiągnięć, tylko z codziennych, prostych przyjemności — takich jak na przykład czas z bliskimi, przytulna atmosfera czy umiejętność cieszenia się z drobizgów. Autor książki tłumaczy, na czym polega to podejście i podaje przykłady, jak wprowadzić je do własnego życia. Przeczytanie jej na pewno pomoże zrozumieć lokalną kulturę i zwyczaje.
+
 ![książka, hygge](hygge.jpg)
 
 ---
 
 ### "Życie po duńsku" - Helen Russell <a name="poduńsku"></a>
+
+Jest to książka w stylu reportażowo-lifestylowym. Opowiada o roku, który autorka spędza w Danii, próbując zrozumieć, dlaczego Duńczycy uchodzą za jeden z najszczęśliwszych narodów na świecie. Codzienne życie, kulturę, pracę, relacje społeczne i zwyczaje autorka opisuje z humorem i dystansem. Są to przede wszystkim obserwacje oraz osobiste relacje autorki.
 
 ![książka, życie po duńsku](życie po duńsku.jpg)
