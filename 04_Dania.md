@@ -5,9 +5,8 @@ permalink: /Dania/
 
 ## Spis Treści
 1. ["Krótko o Danii"](#Dania)
-1. ["Hygge. Klucz do szczęścia." - Meik Wiking](#klucz)
-2. ["Życie po duńsku" - Helen Russel](#poduńsku)
-3. XXX
+2. ["Hygge. Klucz do szczęścia." - Meik Wiking](#klucz)
+3. ["Życie po duńsku" - Helen Russel](#poduńsku)
 
 ### Krótko o Danii <a name="Dania"></a>
 
