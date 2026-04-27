@@ -9,13 +9,8 @@ permalink: /PrzewodnikiTurystyczne/
 3. ["Dumont"](#dumont)
 
 ## O Przewodnikach <a name="intro"></a>
-(tekst do zmiany)
-- sprawdzona wiedza zwykle od lokalsów i ekspertów branży
-- praktyczne wskazówki
-- inspiracje na wycieczki
-- zwykle zawierają także plany miast i mapy
-- niezależność od stanu baterii i zasięgu
-- pamiątka z danej podróży
+
+Przewodniki turystyczne to dla wielu osób element konieczny podczas procesu przygotowywania się do podróży lub uzupełniania wiedzy już w jej trakcie. Zawierają w sobie wiele cennych elementów jak na przykład sprawdzoną wiedzę zwykle od lokalsów i ekspertó branży, praktyczne wskazówki, inspiracje na wycieczki także poza miejsce naszego pobytu, zwykle zawierają także plany miast i mapy, które pomagają w sprawnej nawigacji po mieście. Przewodnik może również być po porstu wspaniałą pamiątką z danej podróży, a jego poisdanie daje nam niezależność od baterii i zasięgu.
 
 ---
 
